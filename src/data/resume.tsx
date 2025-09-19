@@ -11,7 +11,7 @@ export const DATA = {
   description: "Final year computer science student, born and raised in Macau.",
   summary: "",
   avatarUrl:
-    "https://media.licdn.com/dms/image/v2/D5603AQGzSqWCwdYeJg/profile-displayphoto-shrink_800_800/B56ZjAMM2iG4Ag-/0/1755571082188?e=1758758400&v=beta&t=1uDy2d6fXDVqGc4PAiiCFuye4IlBS0gfH8h4UMtKvoM",
+    "https://scontent-hkg4-2.cdninstagram.com/v/t51.2885-19/543998508_18357841243082579_4437893180523027023_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-hkg4-2.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2QGs57huJSwq-TEKQPuwkYYX_FTHKQ7vM54pheH-Gl6s-N8YK_rLT3k-dyEEeG-nuEg&_nc_ohc=prpgcOpOFZsQ7kNvwEF4VnD&_nc_gid=y-ZvN07mMWkotgMZrmvuTA&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AfamCy4eHnuemkDE1DwBPf3RbyNl8TM6_j8h7D4zhY8f8w&oe=68D2BA56&_nc_sid=7a9f4b",
   skills: [
     "Python",
     "C++",
@@ -20,7 +20,7 @@ export const DATA = {
     "Docker",
     "Linux",
     "Node.js",
-    "React",
+    "Next.js",
     "PostgreSQL",
     "d3.js",
     "ROS2",
