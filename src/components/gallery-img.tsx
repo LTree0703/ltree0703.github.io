@@ -8,11 +8,11 @@ export default function GalleryImg({ id }: { id: string }) {
   return (
     <>
       <CldImage
-        className="rounded-lg hover:scale-105 transition-transform duration-300 ease-in-out cursor-pointer"
+        className="rounded-lg hover:scale-105 transition-transform duration-300 ease-in-out my-8"
         src={id}
         alt="Blue hour at Lake Tekapo, New Zealand"
-        width="1000"
-        height="600"
+        width="6000"
+        height="4000"
         crop={{
           type: "auto",
           source: true,

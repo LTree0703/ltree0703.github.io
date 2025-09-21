@@ -9,9 +9,8 @@ export const DATA = {
   location: "Hong Kong",
   locationLink: "https://www.google.com/maps/place/hong+kong",
   description: "Final year computer science student, born and raised in Macau.",
-  summary: "",
-  avatarUrl:
-    "https://scontent-hkg4-2.cdninstagram.com/v/t51.2885-19/543998508_18357841243082579_4437893180523027023_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-hkg4-2.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2QGs57huJSwq-TEKQPuwkYYX_FTHKQ7vM54pheH-Gl6s-N8YK_rLT3k-dyEEeG-nuEg&_nc_ohc=prpgcOpOFZsQ7kNvwEF4VnD&_nc_gid=y-ZvN07mMWkotgMZrmvuTA&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AfamCy4eHnuemkDE1DwBPf3RbyNl8TM6_j8h7D4zhY8f8w&oe=68D2BA56&_nc_sid=7a9f4b",
+  summary: "Per aspera ad astra.",
+  avatarUrl: "https://res.cloudinary.com/deocfjjob/image/upload/v1758285230/icon_zcnyfj.jpg",
   skills: [
     "Python",
     "C++",
@@ -114,32 +113,28 @@ export const DATA = {
   ],
   projects: [
     {
-      title: "Chat Collect",
-      href: "https://chatcollect.com",
-      dates: "Jan 2024 - Feb 2024",
-      active: true,
-      description:
-        "With the release of the [OpenAI GPT Store](https://openai.com/blog/introducing-the-gpt-store), I decided to build a SaaS which allows users to collect email addresses from their GPT users. This is a great way to build an audience and monetize your GPT API usage.",
+      title: "Le-Spy",
+      href: "https://lebron-james-wine.vercel.app",
+      dates: "Jul 2025 - Aug 2025",
+      active: false,
+      description: 
+        "Data logging and visualization tool for robot performance analysis in ABU Robocon 2025 Mongolia",
       technologies: [
         "Next.js",
         "Typescript",
         "PostgreSQL",
-        "Prisma",
         "TailwindCSS",
-        "Stripe",
-        "Shadcn UI",
-        "Magic UI",
+        "d3.js",
       ],
       links: [
         {
           type: "Website",
-          href: "https://chatcollect.com",
+          href: "https://lebron-james-wine.vercel.app",
           icon: <Icons.globe className="size-3" />,
         },
       ],
       image: "",
-      video:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/chat-collect.mp4",
+      video: "",
     },
   ],
   hackathons: [
