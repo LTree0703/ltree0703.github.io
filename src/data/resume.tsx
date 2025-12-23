@@ -9,7 +9,7 @@ export const DATA = {
   location: "Hong Kong",
   locationLink: "https://www.google.com/maps/place/hong+kong",
   description: "Final year computer science student, born and raised in Macau.",
-  summary: "Per aspera ad astra.",
+  summary: "",
   avatarUrl: "https://res.cloudinary.com/deocfjjob/image/upload/v1758285230/icon_zcnyfj.jpg",
   skills: [
     "Python",
@@ -76,7 +76,7 @@ export const DATA = {
       logoUrl:
         "https://media.licdn.com/dms/image/v2/D560BAQEoEr25pfoxxw/company-logo_200_200/company-logo_200_200/0/1692981671776/remobilityhk_logo?e=1758758400&v=beta&t=9wHmUxK2iSLhXDjxkVlw4luRPZNgCM0oQL0kH5YGUFI",
       start: "Jul 2025",
-      end: "Aug 2025",
+      end: "Dec 2025",
       description:
         "",
     },
