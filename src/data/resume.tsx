@@ -9,8 +9,9 @@ export const DATA = {
   location: "Hong Kong",
   locationLink: "https://www.google.com/maps/place/hong+kong",
   description: "Final year computer science student, born and raised in Macau.",
-  summary: "",
-  avatarUrl: "https://res.cloudinary.com/deocfjjob/image/upload/v1758285230/icon_zcnyfj.jpg",
+  summary: "A native Macau resident, currently living in Hong Kong for university. Also been living in Sydney for a semester exchange. Interested in full-stack software development and data analytics. I can speak English, Cantonese, Mandarin and a bit of Japanese.",
+  avatarUrl:
+    "https://res.cloudinary.com/deocfjjob/image/upload/v1758285230/icon_zcnyfj.jpg",
   skills: [
     "Python",
     "C++",
@@ -74,11 +75,10 @@ export const DATA = {
       location: "On-site",
       title: "Software Engineer",
       logoUrl:
-        "https://media.licdn.com/dms/image/v2/D560BAQEoEr25pfoxxw/company-logo_200_200/company-logo_200_200/0/1692981671776/remobilityhk_logo?e=1758758400&v=beta&t=9wHmUxK2iSLhXDjxkVlw4luRPZNgCM0oQL0kH5YGUFI",
+        "https://media.licdn.com/dms/image/v2/D560BAQEoEr25pfoxxw/company-logo_200_200/company-logo_200_200/0/1692981671776/remobilityhk_logo?e=1775692800&v=beta&t=83CDJ5G5nNqwNnyamT_9Oui3o0sYh18r-Qg8FHuhMto",
       start: "Jul 2025",
-      end: "Dec 2025",
-      description:
-        "",
+      end: "Nov 2025",
+      description: "",
     },
   ],
   education: [
@@ -117,7 +117,7 @@ export const DATA = {
       href: "https://lebron-james-wine.vercel.app",
       dates: "Jul 2025 - Aug 2025",
       active: false,
-      description: 
+      description:
         "Data logging and visualization tool for robot performance analysis in ABU Robocon 2025 Mongolia",
       technologies: [
         "Next.js",
@@ -125,6 +125,7 @@ export const DATA = {
         "PostgreSQL",
         "TailwindCSS",
         "d3.js",
+        "Docker",
       ],
       links: [
         {
@@ -139,18 +140,17 @@ export const DATA = {
   ],
   hackathons: [
     {
-      title: "SpaceApps Waterloo",
-      dates: "April 28th - 30th, 2017",
-      location: "Waterloo, Ontario",
+      title: "Cathay Hackathon 2025",
+      dates: "15-16 November, 2025",
+      location: "Hong Kong",
       description:
-        "Developed Earthwatch, a web application which allows users in a plane to virtually see important points of interest about the world below them. They can even choose to fly away from their route and then fly back if they choose. Special thanks to CesiumJS for providing open source world and plane models.",
-      image:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/hackline/space-apps.png",
+        "Developed LiveAR - a web-based demo for AR-enhanced low-altitude urban tours. The project demonstrates a small travel/tour booking platform focused on eVTOL/helipad-based experiences around Hong Kong, with a rich client UI, map components, Clerk authentication, and a Postgres/Neon backend accessed with serverless SQL and Prisma.",
+      image: "",
       links: [
         {
           title: "Source",
           icon: <Icons.github className="h-4 w-4" />,
-          href: "https://github.com/dillionverma/earthwatch",
+          href: "https://github.com/LTree0703/hackaholics-livear",
         },
       ],
     },
