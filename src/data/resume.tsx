@@ -8,8 +8,8 @@ export const DATA = {
   url: "https://ltree0703.github.io",
   location: "Hong Kong",
   locationLink: "https://www.google.com/maps/place/hong+kong",
-  description: "Final year computer science student, born and raised in Macau.",
-  summary: "A native Macau resident, currently living in Hong Kong for university. Also been living in Sydney for a semester exchange. Interested in full-stack software development and data analytics. I can speak English, Cantonese, Mandarin and a bit of Japanese.",
+  description: "Software Engineer | HKU CS + Stat | Exchange @ UNSW",
+  summary: "A native Macau resident, currently living in Hong Kong and pursuing a career in information technology. Also been living in Sydney for a semester exchange. Interested in full-stack software development and data analytics. I can speak English, Cantonese, Mandarin and a bit of Japanese.",
   avatarUrl:
     "https://res.cloudinary.com/deocfjjob/image/upload/v1758285230/icon_zcnyfj.jpg",
   skills: [
@@ -68,6 +68,18 @@ export const DATA = {
   },
 
   work: [
+    {
+      company: "Airport Authority Hong Kong",
+      href: "https://www.hongkongairport.com",
+      badges: [],
+      location: "On-site",
+      title: "IT Trainee",
+      logoUrl:
+        "https://media.licdn.com/dms/image/v2/D560BAQH7aGitV9Vn0Q/company-logo_200_200/B56aCF1qoLI8AE-/0/1788951833310/airport_authority_hong_kong_logo?e=1790812800&v=beta&t=w5vN8oKu0uLSjTvUnWA1_wkMO306FX6vNvJzM79Csls",
+      start: "Jul 2026",
+      end: "Present",
+      description: "",
+    },
     {
       company: "ReMobility Limited",
       href: "https://remobility.net",
